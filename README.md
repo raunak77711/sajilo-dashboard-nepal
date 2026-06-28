@@ -127,16 +127,7 @@ npm run dev
 
 ---
 
-# 📸 Screenshots
 
-> Add screenshots of your dashboard here.
-
-```markdown
-![Dashboard](assets/dashboard.png)
-
-![Analytics](assets/analytics.png)
-
-![Users](assets/users.png)
 ```
 
 ---
